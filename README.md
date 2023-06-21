@@ -12,7 +12,7 @@ git clone https://github.com/aclrdhv/Tubes-TBA.git
 ```
 Change Directory
 ```bash
-cd Tubes-TBA
+cd Lexical-Analyzer
 ```
 
 ## Usage
