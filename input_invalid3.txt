@@ -1,0 +1,4 @@
+if z == x :
+    y = y + z
+elsee :
+    y = z / y

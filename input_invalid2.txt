@@ -1,0 +1,4 @@
+if x : z +
+    x = y + z
+else :
+    x = y * z
