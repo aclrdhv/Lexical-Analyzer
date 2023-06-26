@@ -8,7 +8,7 @@ Parser mengambil serangkaian token yang dihasilkan oleh Lexical Analyzer dan mem
 
 Clone Repository
 ```bash
-git clone https://github.com/aclrdhv/Tubes-TBA.git
+git clone https://github.com/aclrdhv/Lexical-Analyzer.git
 ```
 Change Directory
 ```bash
